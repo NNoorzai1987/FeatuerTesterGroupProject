@@ -1,0 +1,48 @@
+***************The Group Project************
+Naveed  -->Team Lead
+Sabir -->SeniorQa
+Omid  -->SeniorQa
+Sonia   -->SeniorQa
+Urzalla-->SeniorQa
+Maks --> SeniorQa
+Bashir --> SeniorQa
+Abdul--> SeniorQa
+Samira-->SeniorQa
+
+Naveed-> just upload the skeleton of the Project
+    Sabir--> pages  (login,addEmployee, E.t.c)---> please just initialize the driver  and we
+                                                   will  add the commonmethods and extend later
+    Omid--> utils  (commonMethods,ConfigReader,Constants,Excel-reader)-->comment : need to initialize
+                                                                        (page initializers at this point)
+    Sonia-->resources  (config )
+    Urzalla   -->Steps     (pageInit,hooks)-->wait till everyone is done and the code is merged
+Implementation of pahse1:
+1.Naveed:
+  .push the basic skeltoon structure to the github   (done).
+2.Sabir:
+  1.clone the project
+  2.make sure that the terminal is in the correct directory
+  3.make a branch
+  4. write his code
+  5.commit the code
+  6.push the code to github in your own branch
+3.Omid
+  1.clone the project
+  2.make sure that the terminal is in the correct directory
+  3.make a branch
+  4. write his code
+  5.commit the code
+  6.push the code to github in your own branch
+  3.Sonia
+    1.clone the project
+    2.make sure that the terminal is in the correct directory
+    3.make a branch
+    4.write his code
+    5.commit the code
+    6.push the code to github in your own branch
+ 4.Urzalla (assuming she already cloned the project in the start):
+ 1.she will pull the code in main ---> she will have an updated main which will have the code from Sabir,
+  Omid and Sonia.   --> command is git pull
+ 2.create a new branch at this point and then write down the code
+ 3.commit it
+ 4.push it to github
